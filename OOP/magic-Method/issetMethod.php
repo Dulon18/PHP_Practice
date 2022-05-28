@@ -13,7 +13,7 @@ class employee{
 
     public function __isset($property)
     {
-        echo isset($this->$property);
+        echo isset($this->property);
     }
 }
 $obj=new employee();
