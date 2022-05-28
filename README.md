@@ -14,3 +14,7 @@ Due to its cross platform and open source nature it is versatile and useful.
 -> It is used to send and receive emails.  
 -> Furthermore, PHP can be used to build membership sites.
 -> It is open source that is why it has a large community support system.
+
+# Php Documentation
+
+https://www.php.net/manual/en/oop5.intro.php
