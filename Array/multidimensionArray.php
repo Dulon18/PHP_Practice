@@ -16,7 +16,7 @@ $profession=array(
     )
     );
 echo $profession[0][0].' is an '.$profession[0][1].' at '.$profession[0][2]."<br>".$profession[1][0]
-.' is an '.$profession[1][1].' at '.$profession[1][2]."<br>".$profession[2][0].' is an '.$profession[2][1].
+.' is a '.$profession[1][1].' at '.$profession[1][2]."<br>".$profession[2][0].' is a '.$profession[2][1].
 ' at '.$profession[2][2]
 ;
 ?>
