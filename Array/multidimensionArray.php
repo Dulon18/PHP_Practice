@@ -3,3 +3,20 @@ The dimension of an array indicates the number of indices you need to select an 
             
             For a two-dimensional array you need two indices to select an element
             For a three-dimensional array you need three indices to select an element -->
+<?php
+$profession=array(
+    array(
+        'Rita','Engineer','Google'
+    ),
+    array(
+        'Rina','Doctor','DMC'
+    ),
+    array(
+        'Rita','Police','DMP'
+    )
+    );
+echo $profession[0][0].' is an '.$profession[0][1].' at '.$profession[0][2]."<br>".$profession[1][0]
+.' is an '.$profession[1][1].' at '.$profession[1][2]."<br>".$profession[2][0].' is an '.$profession[2][1].
+' at '.$profession[2][2]
+;
+?>
